@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Datos pesados (No queremos subir a GitHub)
+data/PS_20174392719_1491204439457_log.csv
+
+# Archivos de sistema y Python
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
